@@ -18,17 +18,11 @@
 
 ```bash
 USER        = Ariartry
-ALIAS       = yogurt_godel_disciple  
 OS          = Arch (btw)
 SHELL       = /bin/existential_crisis
 STATUS      = Stack overflow in philosophy.h
 UPTIME      = ∞ || until coffee != null
 ```
-
----
-
-> *"I'm not debugging code. I'm debugging the universe's API."*
-
 ---
 
 ## COMMAND HISTORY (RECENT FAILURES)
@@ -84,8 +78,6 @@ $ A Linux user checks: sudo cat /glass/permissions
 
 ---
 
-## 💀 FINAL TRANSMISSION
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400">
 </p>
@@ -93,12 +85,6 @@ $ A Linux user checks: sudo cat /glass/permissions
 > **"In a world of `npm install`, be a `make clean`."**  
 > **"YAML is a war crime."**  
 > **"Everything is a file (including trauma)."**
-
-```
-╔════════════════════════════════════════════╗
-    Truth is the axiom I can't prove.        
-    Reality is poorly documented legacy code.
-╚════════════════════════════════════════════╝
 ```
 
 ---
