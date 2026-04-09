@@ -1,8 +1,4 @@
 <p align="center">
-  <i>Chief Incompleteness Officer • Professional Reality Debugger • Yogurt-Fueled Turing Machine</i>
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2800&pause=700&color=00FFC6&center=true&vCenter=true&width=720&lines=I+DO+NOT+CODE.+I+DECODE.;sudo+apt-get+install+reality...404;Truth+is+the+commit+I+forgot+to+push;YAML+gave+me+trust+issues;Welcome+to+/dev/philosophy" />
 </p>
 
