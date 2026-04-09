@@ -1,16 +1,19 @@
-```
 <!-- ███████████████████████████████████████████████████████ -->
 <!--               ARIARTRY // SYSTEM BOOT                  -->
 <!-- ███████████████████████████████████████████████████████ -->
 
-<h1 align="center">⚡ Ariartry ⚡</h1>
-
 <p align="center">
-  <i>Chief Incompleteness Officer • CLI Maximalist • Reality Debugger</i>
+  <i>Chief Incompleteness Officer • Professional Reality Debugger • Yogurt-Fueled Turing Machine</i>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2800&pause=700&color=00FFC6&center=true&vCenter=true&width=720&lines=I+DO+NOT+CODE.+I+DECODE.;Reality+is+an+undocumented+feature.;sudo+apt-get+install+meaning...FAILED;Welcome+to+/dev/philosophy" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2800&pause=700&color=00FFC6&center=true&vCenter=true&width=720&lines=I+DO+NOT+CODE.+I+DECODE.;sudo+apt-get+install+reality...404;Truth+is+the+commit+I+forgot+to+push;YAML+gave+me+trust+issues;Welcome+to+/dev/philosophy" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 </p>
 
 ---
@@ -19,140 +22,99 @@
 
 ```bash
 USER        = Ariartry
-ALIAS       = yogurt_godel_disciple
+ALIAS       = yogurt_godel_disciple  
 OS          = Arch (btw)
-KERNEL      = existentialism
-STATUS      = infinite recursion detected
-UPTIME      = ∞
+SHELL       = /bin/existential_crisis
+STATUS      = Stack overflow in philosophy.h
+UPTIME      = ∞ || until coffee != null
 ```
 
 ---
 
-## 🔁 RECURSIVE LOOP
+```
 
-```
-PHYSICS → MATHEMATICS → COMPUTER SCIENCE
-        → EXISTENTIAL CRISIS → PHYSICS
-```
+> *"I'm not debugging code. I'm debugging the universe's API."*
 
 ---
 
-## 🧬 MANIFESTO
-
-> I don't build software. I excavate it.
-
-```
-✓ Terminal > GUI
-✓ If it can't be piped, it shouldn't exist
-✓ YAML is a psychological experiment
-✓ CI/CD = Continuous Identity Crisis
-✓ Debugging reality since undefined behavior
-```
-
----
-
-## 🐧 /var/log/philosophy
-
-```diff
-+ Optimist: glass half full
-- Pessimist: glass half empty
-! Engineer: glass has 2x safety factor
-# Linux user: checks sudo
-@ DevOps: containerizes the glass
-> Me: why is the glass in /tmp?
-```
-
----
-
-## ⌨️ COMMAND HISTORY
+## COMMAND HISTORY (RECENT FAILURES)
 
 ```bash
-sudo chown -R me:me /reality
-# ERROR: No such file or directory
+$ sudo chown -R me:me /reality
+chown: cannot access '/reality': Simulation not mounted
 
-sudo apt-get install reality
-# Did you mean: anxiety?
+$ sudo apt-get install meaning-of-life
+E: Package 'meaning-of-life' has no installation candidate
+E: Did you mean: anxiety, coffee, existential-dread?
 
-systemctl status sanity.service
-# failed since 2019
+$ systemctl status sanity.service
+● sanity.service - Mental Stability Daemon
+   Active: failed (Result: exit-code) since birth
+   
+$ man woman
+No manual entry for woman
 
-export LIFE_MEANING=$(curl universe.api)
-# 404 Not Found
+$ while true; do reality_check; done
+reality_check: command not found
+^C [interrupted by coffee break]
 
-while true; do coffee; done
-# coffee: command not found
+$ grep -r "meaning" /dev/random
+[still running... heat death of universe ETA: ∞]
 ```
 
 ---
 
-## ⚙️ TECH STACK
+```diff
++ An optimist thinks the glass is half full
+- A pessimist thinks the glass is half empty  
+! An engineer designed it with 200% safety margin
+@ A mathematician proves the glass is isomorphic to anxiety
+$ A Linux user checks: sudo cat /glass/permissions
+> Me: Why are we storing liquids in /tmp without backups?
+```
+
+---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,python,c,cpp,git,docker,kubernetes,vim" />
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 </p>
 
 ---
 
-## 📊 SYSTEM METRICS
+```log
+[WARN ] User has been in CLI-only mode for 847 days
+[ERROR] social_skills.so: shared object file not found
+[CRIT ] Infinite loop detected in career.path
+[DEBUG] Attempted to compile philosophy.c - segmentation fault
+```
+
+---
+
+## 💀 FINAL TRANSMISSION
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ariartryme&show_icons=true&theme=radical&hide_border=true"/>
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=ariartryme&theme=radical&hide_border=true"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400">
 </p>
 
----
+> **"In a world of `npm install`, be a `make clean`."**  
+> **"YAML is a war crime."**  
+> **"Everything is a file (including trauma)."**
 
-## 🐍 CONTRIBUTION SNAKE
+```
+╔════════════════════════════════════════════╗
+    Truth is the axiom I can't prove.        
+    Reality is poorly documented legacy code.
+╚════════════════════════════════════════════╝
+```
+
+---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ariartryme/ariartryme/output/github-contribution-grid-snake.svg" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFC6,100:000000&height=120&section=footer"/>
 </p>
-
----
-
-## 🧪 ACTIVE PROCESSES
-
-```
-[RUNNING] building AI with existential awareness
-[RUNNING] CLI-first research ecosystem
-[RUNNING] THE ALTERN™ (education reconstruction)
-[FAILED ] finding meaning in /dev/random
-```
-
----
-
-## 📡 ERROR LOG
-
-```
-[WARN] social_module.so missing
-[ERROR] sanity.service crashed
-[CRITICAL] infinite loop in career.path
-[DEBUG] dependency 'coffee' not found
-```
-
----
-
-## 📬 CONTACT
-
-```
-Email    : /dev/null@localhost
-Website  : http://127.0.0.1
-PGP      : Trust No One
-SSH      : Silently Suffering Here
-```
-
----
-
-## 🧾 FINAL TRANSMISSION
-
-> Truth is the commit I forgot to push.
 
 ```
 [EOF]
 Exit code: 42
 ```
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFC6,100:000000&height=120&section=footer"/>
-</p>
 ```
