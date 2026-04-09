@@ -1,7 +1,3 @@
-<!-- ███████████████████████████████████████████████████████ -->
-<!--               ARIARTRY // SYSTEM BOOT                  -->
-<!-- ███████████████████████████████████████████████████████ -->
-
 <p align="center">
   <i>Chief Incompleteness Officer • Professional Reality Debugger • Yogurt-Fueled Turing Machine</i>
 </p>
@@ -30,8 +26,6 @@ UPTIME      = ∞ || until coffee != null
 ```
 
 ---
-
-```
 
 > *"I'm not debugging code. I'm debugging the universe's API."*
 
