@@ -38,9 +38,6 @@ E: Did you mean: anxiety, coffee, existential-dread?
 $ systemctl status sanity.service
 ● sanity.service - Mental Stability Daemon
    Active: failed (Result: exit-code) since birth
-   
-$ man woman
-No manual entry for woman
 
 $ while true; do reality_check; done
 reality_check: command not found
