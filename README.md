@@ -1,8 +1,4 @@
-Here is your final one-copy-paste README.md, already updated with your username ariartryme. No edits needed.
-
-
----
-
+```markdown
 <!-- ███████████████████████████████████████████████████████ -->
 <!--               ARIARTRY // SYSTEM BOOT                  -->
 <!-- ███████████████████████████████████████████████████████ -->
@@ -28,52 +24,49 @@ OS          = Arch (btw)
 KERNEL      = existentialism
 STATUS      = infinite recursion detected
 UPTIME      = ∞
-
+```
 
 ---
 
-🔁 RECURSIVE LOOP
+## 🔁 RECURSIVE LOOP
 
+```
 PHYSICS → MATHEMATICS → COMPUTER SCIENCE
         → EXISTENTIAL CRISIS → PHYSICS
-
+```
 
 ---
 
-🧬 MANIFESTO
+## 🧬 MANIFESTO
 
 > I don't build software. I excavate it.
 
-
-
-Terminal > GUI
-
-If it can't be piped, it shouldn't exist
-
-YAML is a psychological experiment
-
-CI/CD = Continuous Identity Crisis
-
-Debugging reality since undefined behavior
-
-
+```
+✓ Terminal > GUI
+✓ If it can't be piped, it shouldn't exist
+✓ YAML is a psychological experiment
+✓ CI/CD = Continuous Identity Crisis
+✓ Debugging reality since undefined behavior
+```
 
 ---
 
-🐧 /var/log/philosophy
+## 🐧 /var/log/philosophy
 
+```diff
 + Optimist: glass half full
 - Pessimist: glass half empty
 ! Engineer: glass has 2x safety factor
 # Linux user: checks sudo
 @ DevOps: containerizes the glass
 > Me: why is the glass in /tmp?
-
+```
 
 ---
 
-⌨️ COMMAND HISTORY
+## ⌨️ COMMAND HISTORY
 
+```bash
 sudo chown -R me:me /reality
 # ERROR: No such file or directory
 
@@ -88,69 +81,78 @@ export LIFE_MEANING=$(curl universe.api)
 
 while true; do coffee; done
 # coffee: command not found
-
+```
 
 ---
 
-⚙️ TECH STACK
+## ⚙️ TECH STACK
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,bash,python,c,cpp,git,docker,kubernetes,vim" />
 </p>
+
 ---
 
-📊 SYSTEM METRICS
+## 📊 SYSTEM METRICS
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=ariartryme&show_icons=true&theme=radical&hide_border=true"/>
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=ariartryme&theme=radical&hide_border=true"/>
 </p>
+
 ---
 
-🐍 CONTRIBUTION SNAKE
+## 🐍 CONTRIBUTION SNAKE
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ariartryme/ariartryme/output/github-contribution-grid-snake.svg" />
 </p>
+
 ---
 
-🧪 ACTIVE PROCESSES
+## 🧪 ACTIVE PROCESSES
 
+```
 [RUNNING] building AI with existential awareness
 [RUNNING] CLI-first research ecosystem
 [RUNNING] THE ALTERN™ (education reconstruction)
 [FAILED ] finding meaning in /dev/random
-
+```
 
 ---
 
-📡 ERROR LOG
+## 📡 ERROR LOG
 
+```
 [WARN] social_module.so missing
 [ERROR] sanity.service crashed
 [CRITICAL] infinite loop in career.path
 [DEBUG] dependency 'coffee' not found
-
+```
 
 ---
 
-📬 CONTACT
+## 📬 CONTACT
 
+```
 Email    : /dev/null@localhost
 Website  : http://127.0.0.1
 PGP      : Trust No One
 SSH      : Silently Suffering Here
-
+```
 
 ---
 
-🧾 FINAL TRANSMISSION
+## 🧾 FINAL TRANSMISSION
 
 > Truth is the commit I forgot to push.
 
-
+```
+[EOF]
+Exit code: 42
+```
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFC6,100:000000&height=120&section=footer"/>
-</p>[EOF]
-Exit code: 42
+</p>
+```
