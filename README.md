@@ -1,5 +1,6 @@
+```markdown
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2800&pause=700&color=00FFC6&center=true&vCenter=true&width=720&lines=I+DO+NOT+CODE.+I+DECODE.;sudo+apt-get+install+reality...404;Truth+is+the+commit+I+forgot+to+push;YAML+gave+me+trust+issues;Welcome+to+/dev/philosophy" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2800&pause=700&color=00FFC6&center=true&vCenter=true&width=720&lines=I+DO+NOT+CODE.+I+DECODE.;sudo+apt-get+install+reality...404;YAML+is+a+war+crime;Everything+is+a+file+(including+trauma)" />
 </p>
 
 ---
@@ -10,48 +11,44 @@
 
 ---
 
-## SYSTEM PROFILE
+## 🧠 SYSTEM PROFILE
 
 ```bash
+[ariartry@arch ~]$ neofetch
 USER        = Ariartry
-OS          = Arch (btw)
+OS          = Arch Linux x86_64
 SHELL       = /bin/existential_crisis
-STATUS      = Stack overflow in philosophy.h
-UPTIME      = ∞ || until coffee != null
+WM          = none (GUI is bloat)
+UPTIME      = ∞ days
+STATUS      = Segmentation fault (core dumped)
 ```
+
 ---
 
-## COMMAND HISTORY (RECENT FAILURES)
+## ⌨️ RECENT FAILURES
 
 ```bash
-$ sudo chown -R me:me /reality
-chown: cannot access '/reality': Simulation not mounted
+[ariartry@arch ~]$ sudo pacman -S reality
+error: target not found: reality
 
-$ sudo apt-get install meaning-of-life
-E: Package 'meaning-of-life' has no installation candidate
-E: Did you mean: anxiety, coffee, existential-dread?
-
-$ systemctl status sanity.service
+[ariartry@arch ~]$ systemctl status sanity.service
 ● sanity.service - Mental Stability Daemon
-   Active: failed (Result: exit-code) since birth
+   Active: failed since birth
 
-$ while true; do reality_check; done
-reality_check: command not found
-^C [interrupted by coffee break]
-
-$ grep -r "meaning" /dev/random
-[still running... heat death of universe ETA: ∞]
+[ariartry@arch ~]$ grep -r "meaning" /dev/random
+^C [still running... ETA: heat death of universe]
 ```
 
 ---
+
+## 🐧 /var/log/wisdom
 
 ```diff
-+ An optimist thinks the glass is half full
-- A pessimist thinks the glass is half empty  
-! An engineer designed it with 200% safety margin
-@ A mathematician proves the glass is isomorphic to anxiety
-$ A Linux user checks: sudo cat /glass/permissions
-> Me: Why are we storing liquids in /tmp without backups?
++ Optimist: glass half full
+- Pessimist: glass half empty  
+! Engineer: 200% safety margin
+$ Linux user: sudo cat /glass
+> Me: Why is it in /tmp?
 ```
 
 ---
@@ -62,22 +59,23 @@ $ A Linux user checks: sudo cat /glass/permissions
 
 ---
 
+## 📡 LOGS
+
 ```log
-[WARN ] User has been in CLI-only mode for 847 days
-[ERROR] social_skills.so: shared object file not found
-[CRIT ] Infinite loop detected in career.path
-[DEBUG] Attempted to compile philosophy.c - segmentation fault
+[WARN ] CLI-only mode: 847 days
+[ERROR] social_skills.so not found
+[CRIT ] Infinite loop in career.path
 ```
 
 ---
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400">
-</p>
+> **"In a world of `npm install`, be a `make clean`."**
 
-> **"In a world of `npm install`, be a `make clean`."**  
-> **"YAML is a war crime."**  
-> **"Everything is a file (including trauma)."**
+```
+╔═══════════════════════════════════════╗
+║ YAML is a war crime.                 ║
+║ Everything is a file (even trauma).  ║
+╚═══════════════════════════════════════╝
 ```
 
 ---
@@ -86,8 +84,8 @@ $ A Linux user checks: sudo cat /glass/permissions
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFC6,100:000000&height=120&section=footer"/>
 </p>
 
-```
-[EOF]
+```bash
+[ariartry@arch ~]$ exit
 Exit code: 42
 ```
 ```
