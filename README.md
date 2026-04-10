@@ -29,11 +29,10 @@ Also “expert” in:
 In physics I pretend to unify gravity and quantum mechanics.  
 In reality I can’t even unify my socks after laundry.
 
-Everything you just read is false.  
-This very sentence is both true and unprovable.  
+> Everything you just read is false. This very sentence is both true and unprovable.  
 Truth is the axiom you cannot prove — which is why all consistent systems are beautifully, hilariously incomplete… just like me.
 
-— Yogurt Gödel (My imaginary friend that lives in my head)
+— _Yogurt Gödel (My imaginary friend that lives in my head)_
 
 ---
 
