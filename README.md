@@ -8,7 +8,7 @@
 
 ---
 
-### I'm not a coder, Just a decoder who is still trying to pretend that he got a damn clue...
+> **I'm not a coder, Just a decoder who is still trying to pretend that he got a damn clue...**
 
 Fake Polymath™ (self-certified, Gödel-incomplete, provably inconsistent) trapped in the ultimate undecidable loop:  
 Physics → Math → CS → Physics → *halt?* (spoiler: it never halts, just like my to-do list).
