@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2800&pause=700&color=00FFC6&center=true&vCenter=true&width=720&lines=I+DO+NOT+CODE.+I+DECODE.;sudo+apt-get+install+reality...404;YAML+is+a+war+crime;Everything+is+a+file+(including+trauma)" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2800&pause=700&color=0C76EC&center=true&vCenter=true&width=720&lines=I+DO+NOT+CODE.+I+DECODE.;sudo+apt-get+install+reality...404;YAML+is+a+war+crime;Everything+is+a+file+(including+trauma)" />
 </p>
 
 ---
@@ -14,7 +14,9 @@ I “master” Theory of Computation by staring at Turing Machines until they st
 Dream of building a Universal Turing Machine in my basement… but my laptop exhausts its infinite tape after three Chrome tabs and one quantum entanglement explainer.
 
 I have **rage-quit** the bloated GUI wasteland for the terminal tunnel. To me, 
-a desktop environment is just a bloated web browser pretending to be an OS. If it cannot be piped through `awk`, it's probably just JavaScript in disguise not a worthy von Neuman architecture. I don't develop; I perform **computational archaeology** on the ruins of someone else's Stack Overflow copy-paste. My life is a continuous integration 
+a desktop environment is just a bloated web browser pretending to be an OS. If it cannot be piped through `awk`, it's probably just JavaScript in disguise not a worthy von Neuman architecture. 
+
+I don't develop; I perform **computational archaeology** on the ruins of someone else's Stack Overflow copy-paste. My life is a continuous integration 
 pipeline with zero test coverage.
 
 
