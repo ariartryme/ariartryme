@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500">
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2800&pause=700&color=0C76EC&center=true&vCenter=true&width=720&lines=I+DO+NOT+CODE.+I+DECODE.;sudo+apt-get+install+reality...404;YAML+is+a+war+crime;Everything+is+a+file+(including+trauma);Physics+is+just+the+universe's+API+documentation+—;Too+bad+it's+written+in+broken+LaTeX." />
 </p>
 
