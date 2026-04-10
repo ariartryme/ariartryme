@@ -4,14 +4,19 @@
 
 ---
 
-I'm not a coder, Just a decoder who still trying to pretend that he got a damn clue...
+#### I'm not a coder, Just a decoder who is still trying to pretend that he got a damn clue...
 
 Fake Polymath™ (self-certified, Gödel-incomplete, provably inconsistent) trapped in the ultimate undecidable loop:  
 Physics → Math → CS → Physics → *halt?* (spoiler: it never halts, just like my to-do list).
 
-I “master” Theory of Computation by staring at Turing Machines until they stare back and whisper, “This computation does not halt… and neither does your impostor syndrome.”
+I “master” Theory of Computation by staring at Turing Machines until they stare back and whisper, “This computation does not halt… and neither does your impostor syndrome.” My brain is a non-deterministic Turing Machine running on expired yogurt and spite.
 
 Dream of building a Universal Turing Machine in my basement… but my laptop exhausts its infinite tape after three Chrome tabs and one quantum entanglement explainer.
+
+I have **rage-quit** the bloated GUI wasteland for the terminal tunnel. To me, 
+a desktop environment is just a bloated web browser pretending to be an OS. If it cannot be piped through `awk`, it's probably just JavaScript in disguise not a worthy von Neuman architecture. I don't develop; I perform **computational archaeology** on the ruins of someone else's Stack Overflow copy-paste. My life is a continuous integration 
+pipeline with zero test coverage.
+
 
 Obsessed with Gödel’s Incompleteness Theorems — because nothing screams “deep thinker” like formally proving that some truths (especially my coding ability) are forever unprovable in any consistent system.
 
