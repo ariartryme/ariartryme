@@ -16,9 +16,11 @@ Dream of building a Universal Turing Machine in my basement… but my laptop exh
 I have **rage-quit** the bloated GUI wasteland for the terminal tunnel. To me, 
 a desktop environment is just a bloated web browser pretending to be an OS. If it cannot be piped through `awk`, it's probably just JavaScript in disguise not a worthy von Neuman architecture. 
 
-I don't develop; I perform **computational archaeology** on the ruins of someone else's Stack Overflow copy-paste. My life is a continuous integration 
-pipeline with zero test coverage.
+I don't develop; I perform **computational archaeology** on the ruins of someone else's Stack Overflow copy-paste. My life is a continuous integration pipeline with zero test coverage.
 
+I debug code like I understand quantum mechanics: everything works until I observe it.
+
+In my research of Quantum Gravity; Quantum mechanics is just nature's material way of running async/await. Gravity is the kernel panic when the universe runs out of memory.
 
 Obsessed with Gödel’s Incompleteness Theorems — because nothing screams “deep thinker” like formally proving that some truths (especially my coding ability) are forever unprovable in any consistent system.
 
