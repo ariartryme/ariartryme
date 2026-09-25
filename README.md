@@ -28,11 +28,11 @@ In my research of Quantum Gravity; Quantum mechanics is just nature's material w
 
 Obsessed with Gödel’s Incompleteness Theorems — because nothing screams “deep thinker” like formally proving that some truths (especially my coding ability) are forever unprovable in any consistent system.
 
-Also “expert” in:
-• AI/ML (asked ChatGPT to explain itself; it had an existential crisis and suggested I touch grass)
-• Cryptography (I encrypt “password123” so securely that even I can’t decrypt it)
-• Ethical hacking (my first nmap scan was so polite the firewall sent flowers… then blocked me forever)
-• Web dev, DevOps & “resonating with the universe via web dev” (my portfolio is a permanent 404 — much like my unified theory of everything)
+Also Interested in:
+• AI/ML, asked ChatGPT to explain itself; it had an existential crisis and suggested I touch grass...
+• I encrypt “password123” so securely that even I can’t decrypt it)
+• My first nmap scan was so polite the firewall sent flowers… then blocked me forever)
+• DevOps & “resonating with the universe via web dev” — my portfolio is a permanent 404 — much like my unified theory of everything in physics.
 
 In physics I pretend to unify gravity and quantum mechanics.  
 In reality I can’t even unify my socks after laundry.
@@ -40,7 +40,7 @@ In reality I can’t even unify my socks after laundry.
 > Everything you just read is false. This very sentence is both true and unprovable.  
 Truth is the axiom you cannot prove — which is why all consistent systems are beautifully, hilariously incomplete… just like me.
 
-— _Yogurt Gödel (My imaginary friend that lives in my head)_
+— _Someone Gödel (My imaginary friend that lives in my head)_
 
 ---
 
