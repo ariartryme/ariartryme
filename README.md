@@ -10,7 +10,7 @@
 
 > **I'm not a coder, Just a decoder who is still trying to pretend that he got a damn clue...**
 
-Fake Polymath™ (self-certified, Gödel-incomplete, provably inconsistent) trapped in the ultimate undecidable loop:  
+A Fake Polymath trapped in the ultimate undecidable loop:  
 Physics → Math → CS → Physics → *halt?* (spoiler: it never halts, just like my to-do list).
 
 I “master” Theory of Computation by staring at Turing Machines until they stare back and whisper, “This computation does not halt… and neither does your impostor syndrome.” My brain is a non-deterministic Turing Machine running on expired yogurt and spite.
@@ -29,10 +29,10 @@ In my research of Quantum Gravity; Quantum mechanics is just nature's material w
 Obsessed with Gödel’s Incompleteness Theorems — because nothing screams “deep thinker” like formally proving that some truths (especially my coding ability) are forever unprovable in any consistent system.
 
 Also Interested in:
-• AI/ML, asked ChatGPT to explain itself; it had an existential crisis and suggested I touch grass...
+• Asked ChatGPT to explain itself; it had an existential crisis and suggested I touch grass...
 • I encrypt “password123” so securely that even I can’t decrypt it)
 • My first nmap scan was so polite the firewall sent flowers… then blocked me forever)
-• DevOps & “resonating with the universe via web dev” — my portfolio is a permanent 404 — much like my unified theory of everything in physics.
+• DevOps & Softwares I make is like my portfolio, which are a permanent 404 — much like my unified theory of everything  in physics.
 
 In physics I pretend to unify gravity and quantum mechanics.  
 In reality I can’t even unify my socks after laundry.
