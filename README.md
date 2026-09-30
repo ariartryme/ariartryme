@@ -32,8 +32,8 @@ Also Interested in:
 
 *  Asked ChatGPT to explain itself; it had an existential crisis and suggested I touch grass...
 * I encrypt “password123” so securely that even I can’t decrypt it)
-• My first nmap scan was so polite the firewall sent flowers… then blocked me forever)
-• DevOps & Softwares I make is like my portfolio, which are a permanent 404 — much like my unified theory of everything  in physics.
+* My first nmap scan was so polite the firewall sent flowers… then blocked me forever)
+* DevOps & Softwares I make is like my portfolio, which are a permanent 404 — much like my unified theory of everything  in physics.
 
 In physics I pretend to unify gravity and quantum mechanics.  
 In reality I can’t even unify my socks after laundry.
