@@ -29,6 +29,7 @@ In my research of Quantum Gravity; Quantum mechanics is just nature's material w
 Obsessed with Gödel’s Incompleteness Theorems — because nothing screams “deep thinker” like formally proving that some truths (especially my coding ability) are forever unprovable in any consistent system.
 
 Also Interested in:
+
 • Asked ChatGPT to explain itself; it had an existential crisis and suggested I touch grass...
 • I encrypt “password123” so securely that even I can’t decrypt it)
 • My first nmap scan was so polite the firewall sent flowers… then blocked me forever)
